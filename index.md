@@ -1,10 +1,7 @@
-+93700664422 / +989022611020 ![](Aspose.Words.0bb12ea6-2c86-43ca-a575-b9c227d94c9a.001.png)![](Aspose.Words.0bb12ea6-2c86-43ca-a575-b9c227d94c9a.002.jpeg)**Mohammad Sulaiman** sulaimanbehzad@gmail.com
+**Mohammad Sulaiman Behzad**   
 
-**Behzad**
-
-https://github.com/sulaimanbehzad MACHINE LEARNING https://www.kaggle.com/sulaimanbehzad ENGINEER
-
-Herat City, Afghanistan
+https://github.com/sulaimanbehzad
+https://www.kaggle.com/sulaimanbehzad 
 
 WORK HISTORY
 
