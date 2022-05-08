@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
++93700664422 / +989022611020 ![](Aspose.Words.0bb12ea6-2c86-43ca-a575-b9c227d94c9a.001.png)![](Aspose.Words.0bb12ea6-2c86-43ca-a575-b9c227d94c9a.002.jpeg)**Mohammad Sulaiman** sulaimanbehzad@gmail.com
 
-You can use the [editor on GitHub](https://github.com/sulaimanbehzad/sulaimanbehzad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**Behzad**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://github.com/sulaimanbehzad MACHINE LEARNING https://www.kaggle.com/sulaimanbehzad ENGINEER
 
-### Markdown
+Herat City, Afghanistan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+WORK HISTORY
 
-```markdown
-Syntax highlighted code block
+RESEARCH ASSISTANT, ROBOTICS LAB OF FERDOWSI UNIVERSITY OF MASHHAD, MAY 2021– DEC 2021
 
-# Header 1
-## Header 2
-### Header 3
+[Ping Pong Playing Robot Simulation in Unity](https://github.com/sulaimanbehzad/PingPongPlayingRobotSimulation.git)
 
-- Bulleted
-- List
+Designed the 3d simulation environment in Unity
 
-1. Numbered
-2. List
+Customized the ML-Agents Proximal Policy Optimization (PPO) algorithm
 
-**Bold** and _Italic_ and `Code` text
+Defined the reward system for the robot Integrated the Reinforcement Learning model and the agent in simulation using ML-Agents 
 
-[Link](url) and ![Image](src)
-```
+Agent achives its goal more than 80% of the time
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+TEACHER ASSISTANT, FERDOWSI UNIVERSITY OF MASHHAD, OCT 2020– DEC 2021
 
-### Jekyll Themes
+Internet Engineering
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sulaimanbehzad/sulaimanbehzad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Introduction to programming in Python
 
-### Support or Contact
+[MACHINE LEARNING ENGINEER, RADAR FARATECH HOOSHMAND, SEP 2021– PRE](https://www.facebook.com/pages/category/Product-service/Radar-Faratech-Hooshmand-1509606725836199/)SENT
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Setup Apache Hadoop multi node cluster Design and implement MapReduce algorithm for GPS data
+
+Implement supervised ML algorithms to infer transportation modes from real GPS data 
+
+EDUCATION
+
+HIGH SCHOOL (GPA 4.0) Afghan Turk High School - 2016
+
+**BSC IN COMPUTER ENGINEERING ( GPA 3.2)** Ferdowsi University of Mashhad 2017 - 2022
+
+LANGUAGES
+
+Persian - Native
+
+English - Advanced (TOEFL ibt score 106/120)
+
+Turkish - Intermediate
+
+Pashto - Advanced
+
+PERSONAL ROJ ECTS
+
+[Image Captions Classification](https://github.com/sulaimanbehzad/Classifying-Images.git)
+
+Use Bag of Words (BOW) for tokenization 
+
+[Deep learning model](https://github.com/sulaimanbehzad/Classifying-Images.git) for classification
+
+[Image Classification](https://github.com/sulaimanbehzad/Classifying-Images.git)
+
+Data  augmentation  is  used  to  make  up  for small dataset
+
+Feature  extraction  using  Keras's  pretrained models
+
+Created a sequential model for classification Compare  different  models  used  for  feature extraction
+
+Anlayse  the  performance  of  the  model-  Final [accuracy on t](https://github.com/sulaimanbehzad/Clustering_according_to_item_popularity)est data: 70 percent 
+
+[Text Clustering](https://github.com/sulaimanbehzad/Clustering_according_to_item_popularity)
+
+Used K-Means for store data clustering based on popularity
+
+[Developed a](https://github.com/sulaimanbehzad/Video-Codec) Neural Network for price estimation [Video Codec](https://github.com/sulaimanbehzad/Video-Codec)
+
+Created a replica of H.264 video codec from [scratch](https://github.com/IRGroup8/IR_recommender_system.git)
+
+[Recommendation System for Books](https://github.com/IRGroup8/IR_recommender_system.git)
+
+Use KNN, Cosine and Pearson Similarity for [generating ](https://github.com/IRGroup8/newsCrawler)recommendation
+
+[Web Crawler](https://github.com/IRGroup8/newsCrawler)
+
+Crawl news websites with Scrapy
+
+SKILLS
+
+SOFTWARE/TOOLS
+
+Apacha Hadoop, Unity, Microsoft Office OpenAI Gym, Tensorflow, Keras, Pandas, Matplotlib, PyTorch, OpenCV, Seaborn,
+
+Scrapy
+
+**PROGRAMMING LANGUAGES**
+
+C#, Python, Java, Matlab
+
+**WEB DEVELOPEMENT**
+
+HTML, CSS, JavaScript Laravel, Django
